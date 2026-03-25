@@ -8,7 +8,7 @@ Suppose two Person working on a same project-***<br>
 A - main<br>
 B -  collaborator<br>
 
-B will clone the whole Repo and pass the following commands~<br>
+Person B will clone the whole Repo and pass the following commands~<br>
 
 1. Clone the Repo:
 ```bash
@@ -44,7 +44,7 @@ After this the code will be saved in the branch-feature/Frontend.<br><br>
 
   
 ***Step 3: <br>
-A(main) will see the whole code in the branch-feature/Frontend and verify it, if it is right or wrong. Then he can merge the branch code with the main code.***<br>
+Person A(main) can see the whole code in the branch-feature/Frontend and verify it wether it's right or wrong. Then he can merge the branch code with the main code.***<br>
 
 A will use the following git commands~<br><br>
 
@@ -78,7 +78,7 @@ After this we will reload the GitHub and the merged code will be visible in the 
 
   
 ***Step 4: <br>
-Now, B will fetch the whole code in the main branch, so he can work further with the project.***<br><br>
+Now, Person B will fetch the whole code in the main branch, so he can work further with the project.***<br><br>
 
 1. switch to main:
 ```bash
