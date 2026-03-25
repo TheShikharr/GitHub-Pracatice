@@ -10,13 +10,34 @@ Ansh -  collaborator
 
 Ansh will clone the whole Repo and pass the following commands~
 
--git clone https://github.com/TheShikharr/GitHub-Pracatice.git
--cd .\GitHub-Pracatice\             [move to the GitHub Repo]
--git switch -C feature/Frontend     [make its own branch first]
--git branch                         [to view in which branch he is]
--git add .   ----important----      [after adding changes in the new branch i.e feature/Frontend]
--git commit -m "Frontend Added"
--git push -u origin feature/Frontend
+1. Clone the Repo:
+```bash
+git clone https://github.com/TheShikharr/GitHub-Pracatice.git
+```
+2. move to the same repo as of GitHub Repo:
+```bash
+cd .\GitHub-Pracatice\
+```
+3. Make its own branch first:
+```bash
+git switch -C feature/Frontend
+```
+4. To view in which branch itself is:
+```bash
+git branch
+```
+5. After adding changes in the new branch i.e feature/Frontend:
+```bash
+git add .
+```
+6. commit:
+```bash
+git commit -m "Frontend Added"
+```
+7. push to github:
+```bash
+git push -u origin feature/Frontend
+```
 
 After this the code will be saved in the branch-feature/Frontend.
 
