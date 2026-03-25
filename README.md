@@ -41,6 +41,7 @@ git push -u origin feature/Frontend
 <br>
 After this the code will be saved in the branch-feature/Frontend.<br><br>
 
+  
 Step 3:<br>
 Shikhar will see the whole code in the branch-feature/Frontend and verify it, if it is right or wrong. Then he can merge the branch code with the main code.<br><br>
 
@@ -74,9 +75,20 @@ git merge feature/Frontend
 
 After this we will reload the GitHub and the merged code will be visible in the main branch.<br><br>
 
-Step 4:
-Now, Ansh will fetch the whole code in the main branch, so he can work further with the project.
+  
+Step 4:<br>
+Now, Ansh will fetch the whole code in the main branch, so he can work further with the project.<br><br>
 
--git switch main
--git fetch
--git pull
+1. switch to main:
+```bash
+git switch main
+```
+2. fetch the main branch:
+```bash
+git fetch
+```
+3. pull:
+```bash
+git pull
+```
+<br><br>
