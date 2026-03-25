@@ -1,11 +1,11 @@
 ﻿# GitHub-Pracatice
 
 Step 1: 
-Make a GitHub Repository and add a Collaborator.
+Make a GitHub Repository and add a Collaborator.<br>
 
 Step 2:
-Suppose two Person working on a same project-
-Shikhar - main
+Suppose two Person working on a same project-<br>
+Shikhar - main<br>
 Ansh -  collaborator
 
 Ansh will clone the whole Repo and pass the following commands~
