@@ -1,4 +1,4 @@
-﻿# GitHub-Practice
+﻿# GitHub-Collaboration
 
 Step 1: <br>
 Make a GitHub Repository and add a Collaborator.<br><br>
@@ -41,7 +41,8 @@ git push -u origin feature/Frontend
 <br>
 After this the code will be saved in the branch-feature/Frontend.<br><br>
 
-  
+
+    
 Step 3:<br>
 Shikhar will see the whole code in the branch-feature/Frontend and verify it, if it is right or wrong. Then he can merge the branch code with the main code.<br><br>
 
