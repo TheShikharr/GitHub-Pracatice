@@ -1,14 +1,14 @@
 ﻿# GitHub-Collaboration
 
-Step 1: <br>
-Make a GitHub Repository and add a Collaborator.<br><br>
+***Step 1: <br>
+Make a GitHub Repository and add a Collaborator.***<br><br>
 
-Step 2: <br>
-Suppose two Person working on a same project-<br>
-Shikhar - main<br>
-Ansh -  collaborator<br>
+***Step 2: <br>
+Suppose two Person working on a same project-***<br>
+A - main<br>
+B -  collaborator<br>
 
-Ansh will clone the whole Repo and pass the following commands~<br>
+B will clone the whole Repo and pass the following commands~<br>
 
 1. Clone the Repo:
 ```bash
@@ -43,10 +43,10 @@ git push -u origin feature/Frontend
 After this the code will be saved in the branch-feature/Frontend.<br><br>
 
   
-Step 3:<br>
-Shikhar will see the whole code in the branch-feature/Frontend and verify it, if it is right or wrong. Then he can merge the branch code with the main code.<br>
+***Step 3: <br>
+A(main) will see the whole code in the branch-feature/Frontend and verify it, if it is right or wrong. Then he can merge the branch code with the main code.***<br>
 
-Shikhar will use the following git commands~<br><br>
+A will use the following git commands~<br><br>
 
 1. fetching the whole Repo:
 ```bash
@@ -77,8 +77,8 @@ git push origin main
 After this we will reload the GitHub and the merged code will be visible in the main branch.<br><br>
 
   
-Step 4:<br>
-Now, Ansh will fetch the whole code in the main branch, so he can work further with the project.<br><br>
+***Step 4: <br>
+Now, B will fetch the whole code in the main branch, so he can work further with the project.***<br><br>
 
 1. switch to main:
 ```bash
