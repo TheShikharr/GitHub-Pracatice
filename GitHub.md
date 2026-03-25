@@ -68,7 +68,7 @@ git merge feature/Frontend
 ```
 6. push:
 ```bash
--git push origin main
+git push origin main
 ```
 <br>
 
